@@ -1,0 +1,6 @@
+---
+name: quota-enforcer
+dependencies:
+  - golang
+files:
+  - github.com/cloudfoundry-incubator/cf-mysql-quota-enforcer/*.go # gosub
